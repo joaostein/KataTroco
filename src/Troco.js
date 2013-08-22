@@ -12,8 +12,8 @@ var Operator = function() {
 
     this.change = function(totalPrice, payment) {
 
-        var result = '';
-        var change = payment - totalPrice;
+        var result = '',
+            change = payment - totalPrice;
 
         change = Math.round(change * 100) / 100;
 
