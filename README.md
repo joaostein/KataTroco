@@ -1,7 +1,7 @@
 KataTroco
 =========
 
-Fork in BSB para transformar números Arábicos em Romanos.
+Fork in BSB para informar o troco em uma compra.
 
 O Objetivo [deste Kata](http://www.dojopuzzles.com/problemas/exibe/troco/) é escrever um código que receba o valor de uma compra e o valor pago e informe como o troco será entregue.
 
